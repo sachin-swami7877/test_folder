@@ -1,5 +1,9 @@
+import About from './About'
+
 function App() {
-  return <></>
+  return <>
+    <About />
+  </>
 }
 
 export default App
