@@ -1,9 +1,5 @@
-import About from './About'
-
 function App() {
-  return <>
-    <About />
-  </>
+  return <></>
 }
 
 export default App
